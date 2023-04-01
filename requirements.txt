@@ -1,0 +1,2 @@
+# Global requirements file
+jupyter
